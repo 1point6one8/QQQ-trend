@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QQQ Trends</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 80%;
+            margin: 50px auto;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px 12px;
+            text-align: center;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+
+<table>
+    <thead>
+        <tr>
+            <th colspan="6">QQQ</th>
+        </tr>
+        <tr>
+            <th>Date</th>
+            <th>1 hour</th>
+            <th>4 hour</th>
+            <th>Daily</th>
+            <th>Weekly</th>
+            <th>Monthly</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>10/13/2023</td>
+            <td>Downtrend</td>
+            <td>Downtrend</td>
+            <td>Uptrend</td>
+            <td>Downtrend</td>
+            <td>Consolidation</td>
+        </tr>
+        <tr>
+            <td>10/16/2023</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10/17/2023</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10/18/2023</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </tbody>
+</table>
+
+</body>
+</html>
